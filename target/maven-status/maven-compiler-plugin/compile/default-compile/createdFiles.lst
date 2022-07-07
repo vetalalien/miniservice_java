@@ -1,3 +1,4 @@
-com\vetalalien\miniservice\MiniserviceApplication.class
-com\vetalalien\miniservice\controllers\HealthController.class
-com\vetalalien\miniservice\controllers\MainPageController.class
+com/vetalalien/miniservice/MiniserviceApplication.class
+com/vetalalien/miniservice/controllers/ReadyController.class
+com/vetalalien/miniservice/controllers/HealthController.class
+com/vetalalien/miniservice/controllers/MainPageController.class
