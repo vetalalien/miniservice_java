@@ -11,9 +11,9 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 
-@RestController
+//@RestController
 public class ReadyController {
-    public ResponseEntity internalServerError(String msg) {
+  /*  public ResponseEntity internalServerError(String msg) {
         return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(msg);
     }
 
@@ -39,4 +39,6 @@ public class ReadyController {
 
         return result;
     }
+
+   */
 }
